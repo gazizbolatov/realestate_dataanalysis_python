@@ -21,8 +21,9 @@ Key Insights: Extracted trends such as price distributions, costs per square met
 Recommendations: Provided actionable insights for pricing strategies.
 
 **Key Results**
-Price Trends: Highlighted clear price ranges and sign![screenshot](https://github.com/user-attachments/assets/f4369c67-7b98-42ed-b945-cb06dd99b61e)
+Price Trends: Highlighted clear price ranges and sign!
 ificant variations by location.
 Living Space Costs: Identified the average price per square meter across different neighborhoods.
-Visualization Highlights: Shared easy-to-understand graphs for key findings.![screenshot](https://github.com/user-attachments/assets/d686ba10-9826-42d4-a633-4a1560a2f3c9)
+Visualization Highlights: Shared easy-to-understand graphs for key findings.
 
+[screenshot](https://github.com/user-attachments/assets/f4369c67-7b98-42ed-b945-cb06dd99b61e)
