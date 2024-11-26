@@ -23,4 +23,5 @@ Recommendations: Provided actionable insights for pricing strategies.
 **Key Results**
 Price Trends: Highlighted clear price ranges and significant variations by location.
 Living Space Costs: Identified the average price per square meter across different neighborhoods.
-Visualization Highlights: Shared easy-to-understand graphs for key findings.
+Visualization Highlights: Shared easy-to-understand graphs for key findings.![screenshot](https://github.com/user-attachments/assets/d686ba10-9826-42d4-a633-4a1560a2f3c9)
+
