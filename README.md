@@ -26,3 +26,6 @@ ificant variations by location.
 Living Space Costs: Identified the average price per square meter across different neighborhoods.
 Visualization Highlights: Shared easy-to-understand graphs for key findings.
 
+
+![screenshot](https://github.com/user-attachments/assets/baaffe27-1dbb-4939-ab1e-3da6d475e19a)
+
